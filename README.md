@@ -91,7 +91,7 @@ To evaluate model performance, the following metrics were used:
 | Random Forest       | 85.0%    | 82.2%     | 85.3%  | 83.7%    | 0.91   |
 | XGBoost             | 84.1%    | 80.5%     | 83.9%  | 82.2%    | 0.89   |
 
-➡ **Random Forest performed the best** in terms of overall metrics, especially recall and AUC.
+ **Random Forest performed the best** in terms of overall metrics, especially recall and AUC.
 
 ---
 
@@ -108,19 +108,19 @@ To evaluate model performance, the following metrics were used:
 Based on model insights, here are actionable steps for the telecom company:
 
  **Encourage Long-Term Contracts**  
-→ Offer discounts for 1 or 2-year contracts to reduce churn.
+ Offer discounts for 1 or 2-year contracts to reduce churn.
 
  **Bundle Services with Discounts**  
-→ Customers using more services (TV, internet, phone) are less likely to churn.
+  Customers using more services (TV, internet, phone) are less likely to churn.
 
  **Loyalty Benefits for Dependents/Partners**  
-→ Promote family plans with incentives for existing users.
+  Promote family plans with incentives for existing users.
 
  **Offer Perks to Senior Citizens**  
-→ Provide tech support and streaming perks for older users.
+  Provide tech support and streaming perks for older users.
 
  **Switch to Auto-Pay**  
-→ Encourage automatic payment methods with small discounts.
+  Encourage automatic payment methods with small discounts.
 
  **Target High-Risk Segments Early**  
-→ Use model output to proactively engage with users showing early churn signals.
+  Use model output to proactively engage with users showing early churn signals.
