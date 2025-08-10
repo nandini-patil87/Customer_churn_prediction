@@ -1,6 +1,6 @@
 # Telecom Customer Churn Prediction
 
-This machine learning project aims to help a telecom company identify which customers are most likely to churn — and why — so they can take action to reduce customer loss.
+This machine learning project aims to help a telecom company identify which customers are most likely to churn  and why so they can take action to reduce customer loss.
 
 ---
 
