@@ -19,7 +19,7 @@ This machine learning project aims to help a telecom company identify which cust
 
 ---
 
-## 🗃Dataset Summary
+## Dataset Summary
 
 - **Rows:** 7043
 - **Target column:** `Churn` (Yes/No)
@@ -68,7 +68,7 @@ Features like `Gender` and `PhoneService` were found to be **not significant**.
 
 ---
 
-## 📈 Evaluation Metrics
+##  Evaluation Metrics
 
 To evaluate model performance, the following metrics were used:
 
